@@ -1,0 +1,74 @@
+[
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "cost_of_living": "850",
+    "internet_speed": "125",
+    "safety_index": "70",
+    "climate": {
+      "type": "tropical",
+      "winter_temp": "24",
+      "summer_temp": "33"
+    }
+  },
+  {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "cost_of_living": "1200",
+    "internet_speed": "200",
+    "safety_index": "85",
+    "climate": {
+      "type": "Mediterranean",
+      "winter_temp": "10",
+      "summer_temp": "28"
+    }
+  },
+  {
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "cost_of_living": "600",
+    "internet_speed": "70",
+    "safety_index": "75",
+    "climate": {
+      "type": "continental",
+      "winter_temp": "1",
+      "summer_temp": "30"
+    }
+  },
+  {
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "cost_of_living": "700",
+    "internet_speed": "100",
+    "safety_index": "80",
+    "climate": {
+      "type": "tropical",
+      "winter_temp": "20",
+      "summer_temp": "35"
+    }
+  },
+  {
+    "city": "Medellin",
+    "country": "Colombia",
+    "cost_of_living": "750",
+    "internet_speed": "90",
+    "safety_index": "65",
+    "climate": {
+      "type": "spring-like",
+      "winter_temp": "18",
+      "summer_temp": "27"
+    }
+  },
+  {
+    "city": "Canggu",
+    "country": "Indonesia",
+    "cost_of_living": "800",
+    "internet_speed": "110",
+    "safety_index": "78",
+    "climate": {
+      "type": "tropical",
+      "winter_temp": "25",
+      "summer_temp": "32"
+    }
+  }
+]
